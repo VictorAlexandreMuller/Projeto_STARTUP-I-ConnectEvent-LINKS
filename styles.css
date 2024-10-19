@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+  /* border: 1px solid blue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  padding: 1rem 0 5rem 0;
+
+  background: url(assets/896868_2516.jpg);
+  background-size: cover;
+}
+
+.corWhite {
+  color: white;
+}
+
+.tagImg {
+  width: 9rem;
+  height: 7.5rem;
+}
+
+.filterDropShadow {
+  filter: drop-shadow(0px 0px 25px white);
+}
+
+.letraStyle {
+  /* font-family: "Noto Sans", sans-serif; */
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.tituloBox {
+  margin: 1rem 0 0 0;
+}
+
+.boxPrincipal {
+  /* border: 3px solid red; */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+}
+
+.boxLinks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  /* border: 2px solid green; */
+  padding: 1rem;
+  background-color: rgb(240, 240, 240);
+  box-shadow: 0px 0px 30px rgb(255, 255, 255);
+  border-radius: 3rem;
+  width: 70%;
+  max-width: 15rem;
+  opacity: 90%;
+}
+
+.button {
+  /* border: 1px solid black; */
+  padding: 1rem 2rem;
+  box-shadow: 0px 0px 10px rgb(118, 118, 118);
+  border-radius: 10px;
+  text-align: center;
+  width: 3rem;
+  height: 3rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.linksAlinhadosVertical {
+  /* border: 1px solid purple; */
+  margin: 2rem;
+  /* filter: drop-shadow(0px 0px 10px ); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.boxUnitaria {
+  box-shadow: 0px 0px 20px rgb(65, 65, 65);
+}
+
+.textDecorationNone {
+  text-decoration: none;
+  color: black;
+}
