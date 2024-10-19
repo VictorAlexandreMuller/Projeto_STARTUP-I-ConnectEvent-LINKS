@@ -14,7 +14,9 @@
 
   padding: 1rem 0 5rem 0;
 
-  background: url(assets/896868_2516.jpg);
+  /* background: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q4czE4Zmduc3A3NjN4bmdrZjVocXpxN3pkeG9sNDByejI0NjhuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fXz8a7oYDFUFFMTctC/giphy-downsized-large.gif); */
+  /* background: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGcxMXdsczFleGpxNWNrNm0zZnJldXIzNmc1eGNidHJja3pob3Z1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybczXoMgdvlBO2tpsg/giphy-downsized-large.gif); */
+  background: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlNGNmb2J1OGxucGJneGtyYmdmaG85NXJrbnpoNzNxM3drejdubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVTMFrWQBsRyctpP0R/giphy.gif);
   background-size: cover;
 }
 
